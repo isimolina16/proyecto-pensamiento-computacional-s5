@@ -64,14 +64,14 @@ El tercer estado es la condición de la lampara entre encendida y apagada.
 
 La imagen de la lámpara cambia ligeramente de tamaño para simular el parpadeo de la llama. Al mismo tiempo, su posición se ajusta para que permanezca centrada mientras sigue el movimiento del cursor. El valor de "brillo" representa el ancho y el alto simulando un parpadeo.
 //lampara encendida
-let brillo = 100 + sin(frameCount * 0.15) * 5;
+```let brillo = 100 + sin(frameCount * 0.15) * 5;
 image( encendida, mouseX -50 - brillo / 2, mouseY -50  - brillo / 2, brillo,brillo);
 
 La lámpara apagada sigue el movimiento del cursor y presenta un ligero balanceo de lado a lado
 //lampara apagada
 translate(mouseX -50, mouseY- 50);//hace que la imagen de la lampara este al lado del cursor, no sobre el
 rotate(radians(sin(frameCount * 0.01) * 6));// hace que la lampara se mueva de derecha a izquierda
-image(apagada, 0, 0, 200, 200)
+image(apagada, 0, 0, 200, 200)```
 
 
 
