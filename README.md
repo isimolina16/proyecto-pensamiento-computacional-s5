@@ -18,7 +18,8 @@ Tomando su estetica misteriosa y lugubre, reversionandola a tráves de acuarelas
 
 ### Imagen de referencia de proyecto
 
-Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+<img width="775" height="477" alt="examenp5" src="https://github.com/user-attachments/assets/4bd89fba-ac28-4d67-9946-cca817752008" />
+
 
 ### Integrantes
 
