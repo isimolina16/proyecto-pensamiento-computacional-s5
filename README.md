@@ -26,18 +26,17 @@ Isidora Molina [isimolina16](https://github.com/isimolina16)
 
 ### Enlace de p5.js 
 
-<https://editor.p5js.org>
+<https://editor.p5js.org/yogurtconchia/sketches/HT5Uyg0Dc>
 
 ### Relato inicial
 
 El proyecto representa dos momentos de un mismo lugar inspirados en Más allá del jardín. En el primer lugar el bosque que se encuentra lleno de vida, donde las hojas caen lentamente, y estan los elementos caracteristicos de los personajes la tetera con la rana y el gorro rojo, mientras la lampara permanece encendida iluminando el entorno. Luego la escena cambia al invierno, donde el paisaje aparece cubierto de nieve, la lámpara se apaga y los objetos muestran el paso del tiempo.
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+![Uploading CamScanner 26-06-2026 02.50.jpg…]()
+
 
 ### Estados
-
-Describe acá los estados de tu máquina (mínimo 3 para proyectos individuales, 6 para parejas, 9 para tríos), y la condición de salida. Incluye la sección de código que muestra ese estado
 
 #### Estado 1
 
