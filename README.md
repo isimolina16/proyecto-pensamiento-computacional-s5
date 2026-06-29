@@ -36,6 +36,12 @@ El proyecto representa dos momentos de un mismo lugar inspirados en Más allá d
 <img width="2000" height="2000" alt="hojas" src="https://github.com/user-attachments/assets/a4b11e96-122f-44c4-bc3a-d4463cc662c1" />
 
 <img width="3000" height="2621" alt="invierno" src="https://github.com/user-attachments/assets/fb30960c-1269-4743-a2df-d1d3e7bc4b89" />
+<img width="2046" height="1747" alt="lamparaencendida" src="https://github.com/user-attachments/assets/080d5ceb-a9a5-4026-8219-f607dec6b301" />
+<img width="1818" height="1204" alt="tetera" src="https://github.com/user-attachments/assets/0cf7802c-50ae-429a-adf8-0320009fbf20" />
+<img width="2108" height="1428" alt="invierno" src="https://github.com/user-attachments/assets/5b5b6573-637b-497a-a930-ae96259ee0b9" />
+<img width="2200" height="2552" alt="gorrito" src="https://github.com/user-attachments/assets/8f34c050-47dc-4817-a7ad-7ce24acc04a3" />
+<img width="3000" height="2016" alt="ranita" src="https://github.com/user-attachments/assets/82b72ca8-1459-4bb6-97dc-800f7b4f0f59" />
+
 
 
 
