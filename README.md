@@ -33,38 +33,45 @@ Isidora Molina [isimolina16](https://github.com/isimolina16)
 El proyecto representa dos momentos de un mismo lugar inspirados en Más allá del jardín. En el primer lugar el bosque que se encuentra lleno de vida, donde las hojas caen lentamente, y estan los elementos caracteristicos de los personajes la tetera con la rana y el gorro rojo, mientras la lampara permanece encendida iluminando el entorno. Luego la escena cambia al invierno, donde el paisaje aparece cubierto de nieve, la lámpara se apaga y los objetos muestran el paso del tiempo.
 ### Storyboard
 
-![Uploading CamScanner 26-06-2026 02.50.jpg…]()
+
 
 
 ### Estados
 
 #### Estado 1
 
-En el primer estado, con alicia frente al conejo
+En el primer estado, tenemos el fondo de otoño que se reproduce solo si la variable "esinvierno"
+vale no. Además el fondo cambia de escala con (sin(frameCount)), generando un aumento y oscilación para que la imagen se expanda y contraiga desde su centro.
 
-al hacer scroll, Alicia empieza a caer
+```let escala = 1 + sin(frameCount * 0.005) * 0.05;
+if (esinvierno == false) {
 
-```js
-//alicia cae
-function aliciaEstatica(){
-  //tu alicia quieta acá
-  if (scroll) {
-    caer();
-  }
-}
 ```
 
 
 #### Estado 2
 
-Alicia cayendo
+Para pasar al fondo de invierno utilizamos mousePressed, que  alterna el valor de la variable "esinvierno", que controla qué escena debe dibujarse, si otoño o invierno.
 
-si pasan 5 segundos, alicia se detiene
+```function mousePressed() {
+esinvierno = !esinvierno;// se invierte el valor de las variables entre false y true
 
-```js
-//alicia cae
-function aliciaCayendo(){
-  //tu alicia quieta acá
-  frameCount blablabla
-}
+
 ```
+#### Estado 3
+
+El tercer estado es la condición de la lampara entre encendida y apagada.
+
+La imagen de la lámpara cambia ligeramente de tamaño para simular el parpadeo de la llama. Al mismo tiempo, su posición se ajusta para que permanezca centrada mientras sigue el movimiento del cursor. El valor de "brillo" representa el ancho y el alto simulando un parpadeo.
+//lampara encendida
+let brillo = 100 + sin(frameCount * 0.15) * 5;
+image( encendida, mouseX -50 - brillo / 2, mouseY -50  - brillo / 2, brillo,brillo);
+
+La lámpara apagada sigue el movimiento del cursor y presenta un ligero balanceo de lado a lado
+//lampara apagada
+translate(mouseX -50, mouseY- 50);//hace que la imagen de la lampara este al lado del cursor, no sobre el
+rotate(radians(sin(frameCount * 0.01) * 6));// hace que la lampara se mueva de derecha a izquierda
+image(apagada, 0, 0, 200, 200)
+
+
+
