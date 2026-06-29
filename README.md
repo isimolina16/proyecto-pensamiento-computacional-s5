@@ -32,6 +32,10 @@ Isidora Molina [isimolina16](https://github.com/isimolina16)
 
 El proyecto representa dos momentos de un mismo lugar inspirados en Más allá del jardín. En el primer lugar el bosque que se encuentra lleno de vida, donde las hojas caen lentamente, y estan los elementos caracteristicos de los personajes la tetera con la rana y el gorro rojo, mientras la lampara permanece encendida iluminando el entorno. Luego la escena cambia al invierno, donde el paisaje aparece cubierto de nieve, la lámpara se apaga y los objetos muestran el paso del tiempo.
 ### Storyboard
+<img width="3001" height="1961" alt="fondo" src="https://github.com/user-attachments/assets/b1a24c64-e87d-4c03-91c2-847187a1e98f" />
+<img width="2000" height="2000" alt="hojas" src="https://github.com/user-attachments/assets/a4b11e96-122f-44c4-bc3a-d4463cc662c1" />
+<img width="1024" height="1536" alt="apagada" src="https://github.com/user-attachments/assets/754abb1f-25f8-4dbf-89e6-d34af042681d" />
+<img width="3000" height="2621" alt="invierno" src="https://github.com/user-attachments/assets/fb30960c-1269-4743-a2df-d1d3e7bc4b89" />
 
 
 
