@@ -41,6 +41,8 @@ El proyecto representa dos momentos de un mismo lugar inspirados en Más allá d
 <img width="2108" height="1428" alt="invierno" src="https://github.com/user-attachments/assets/5b5b6573-637b-497a-a930-ae96259ee0b9" />
 <img width="2200" height="2552" alt="gorrito" src="https://github.com/user-attachments/assets/8f34c050-47dc-4817-a7ad-7ce24acc04a3" />
 <img width="3000" height="2016" alt="ranita" src="https://github.com/user-attachments/assets/82b72ca8-1459-4bb6-97dc-800f7b4f0f59" />
+<img width="526" height="560" alt="gorritos" src="https://github.com/user-attachments/assets/84a78b59-5f1a-4ab8-82e9-b329352f32cf" />
+
 
 
 
